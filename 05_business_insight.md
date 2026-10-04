@@ -10,17 +10,17 @@ Translate the SQL analysis into clear business insights and actionable recommend
 
 ## 1. Revenue and Product Strategy
 
-The business generated approximately 13.59 million in product revenue.
+The business generated approximately $13.59 million in product revenue.
 
 Revenue is distributed across several strong product categories rather than depending on only one category. The top 10 categories account for approximately 62.36% of total product revenue.
 
 The strongest categories include:
 
-- health_beauty: 1,258,681.34 in revenue
-- watches_gifts: 1,205,005.68
-- bed_bath_table: 1,036,988.68
-- sports_leisure: 988,048.97
-- computers_accessories: 911,954.32
+- health_beauty: $1,258,681.34 in revenue
+- watches_gifts: $1,205,005.68
+- bed_bath_table: $1,036,988.68
+- sports_leisure: $988,048.97
+- computers_accessories: $911,954.32
 
 health_beauty is the largest revenue-generating category.
 
@@ -79,7 +79,7 @@ Among customers with item-level purchase data:
 - Repeat customers averaged 2.11 orders.
 - One-time customers averaged 1.00 order.
 
-Repeat customers therefore spend nearly twice as much per customer.
+Repeat customers spend approximately 92% more per customer than one-time customers, highlighting a significant retention opportunity.
 
 ### Recommendation
 
@@ -177,3 +177,4 @@ The dataset contains incomplete activity in late 2018, so year-over-year compari
 Some orders do not have matching item-level records, so analyses involving revenue or product information use only orders with available order-item data.
 
 Data-quality issues identified earlier were documented rather than automatically deleting affected records.
+
